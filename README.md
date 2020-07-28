@@ -41,7 +41,7 @@
 
 <h4>Desktop Environment: </h4>
 <p align="left">
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/slack/slack-original.svg alt=slack width="60" height="60"/>
+ <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg alt=slack width="60" height="60"/>
  <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg alt=vs width="60" height="60"/>
  <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg alt=windows8 width="60" height="60"/>
 </p>
