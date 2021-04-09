@@ -36,6 +36,7 @@
 	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg alt=git width="60" height="60"/>
  <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg alt=github width="60" height="60"/>
  <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg alt=heroku width="60" height="60"/>
+	<img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt=aws width="60" height="60"/>
  
 </p>
 
