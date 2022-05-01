@@ -13,13 +13,14 @@
 <h3 align="center">Bachelor of Technology, Information and Technology(IT) (2020 Graduate)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=imakshit alt=imakshit/></p>
 
-- 🌱 I’m currently learning ... **AWS and exploring the field of Cloud Computing(AWS Certified Cloud Practitioner)**
-- 💬 Ask me about ... **Data Structures and algorithms, Python, Java, Machine Learning, Deep Learning, AWS**
-- 😄 Employement ... **Open for opportunities**
+- 🌱 I’m currently learning ... **AWS and exploring the field of Cloud Computing(2x AWS Certified)**
+- 💬 Ask me about ... **Data Structures and algorithms, Python, Java, Machine Learning, Deep Learning, AWS Cloud**
+- 😄 Employement ... **Cloud Engineer At AWS**
 - 🔭 For cool ML/DL projects **Visit my Github @imakshit**
 - ⚡ Fun fact ... **Self-taught guitarist and Astrogeek!**
 - 📫 How to reach me **akshit.gupta98@gmail.com**
-    
+- 🐱‍🏍 Always open for casual discussions
+
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg alt=java width="60" height="60"/>
