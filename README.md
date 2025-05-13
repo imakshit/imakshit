@@ -20,6 +20,7 @@
 <p align="center">
   <a href=https://www.linkedin.com/in/gupta-akshit/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="gupta-akshit" height="40" width="40" /></a>
   <a href=https://medium.com/@akshit-gupta98 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg alt="akshit_gupta" height="40" width="40" /></a>
+  <a href=https://www.credly.com/users/akshit-gupta-aws#badge-portfolio target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@x.x.x/icons/credly.svg alt="gupta-akshit" height="40" width="40" /></a>
   <a href=https://leetcode.com/akshit_gupta98/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg alt="akshit_gupta98" height="40" width="40" /></a>
 </p>
 
